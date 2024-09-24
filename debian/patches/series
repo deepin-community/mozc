@@ -8,4 +8,4 @@
 #0008-renderer-Convert-Gtk2-to-Gtk3.patch
 0009-protobuf.gyp-Add-latomic-to-link_settings.patch
 0010-Fix-the-compile-error-of-ParseCommandLineFlags-with.patch
-0011-Fix-missing-abseil-gyp-link-settings.patch
+# 0011-Fix-missing-abseil-gyp-link-settings.patch
